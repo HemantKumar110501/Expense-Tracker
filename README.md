@@ -1,4 +1,4 @@
- Overview
+ Overview:-
 An expense tracker web application that helps users keep track of their earnings and expenses. The app allows users to add, edit, and delete transactions, and displays the balance, earnings, and expenses in real-time.
 
 ## Features
